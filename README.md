@@ -34,7 +34,7 @@ VS Code • Git • GitHub • Supabase
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivas2s&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snishanth382show_icons=true)
 
 ---
 
