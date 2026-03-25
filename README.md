@@ -1,7 +1,7 @@
-# Srinivas P
+# Nishanth S
 
 ## 👋 About Me
-Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
+Hello! Bridging marketing strategy with code-driven solutions.
 
 ---
 
@@ -22,7 +22,10 @@ Hello! I'm a passionate developer who enjoys learning new technologies, building
 - Full Stack Development
 - Backend Concepts
 - Open Source Contribution
-
+-Currently learning to blend marketing strategy with code.
+🚀 Learning digital marketing with a touch of coding.
+💻 Exploring the power of marketing through technology.
+📈 Currently learning data-driven marketing & automation.
 ---
 
 ## 🛠️ Tools
